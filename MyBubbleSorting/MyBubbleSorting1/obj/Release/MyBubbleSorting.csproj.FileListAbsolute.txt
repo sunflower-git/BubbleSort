@@ -1,0 +1,8 @@
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\MyBubbleSorting.Form1.resources
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\MyBubbleSorting.Properties.Resources.resources
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\MyBubbleSorting.csproj.GenerateResource.Cache
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\bin\Release\MyBubbleSorting.exe
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\bin\Release\MyBubbleSorting.pdb
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\MyBubbleSorting.exe
+C:\Users\Sunflower\AppData\Local\Temporary Projects\MyBubbleSorting\obj\Release\MyBubbleSorting.pdb
